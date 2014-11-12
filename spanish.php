@@ -34,7 +34,7 @@ servicios (foros, juegos, economia y otros). Tenemos la intencion de utilizarlos
 del conductor personal en el futuro. Usted podra modificar su propio perfil";
 $_lang["website.title"] = "ETS2MP - Mundo virtual de Camiones - mod Multijugador para el juego Euro Truck Simulator 2 de SCS 
 Software";
-$_lang["cookies.warning"] = "Este sitio uriliza cookies de <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. Al 
+$_lang["cookies.warning"] = "Este sitio utiliza cookies de <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. Al 
 continuar navegando por el sitio, usted acepta el uso de cookies.";
 $_lang["forum"] = "Foro";
 $_lang["You cannot create new account while you are logged."] = "No puede crear una nueva cuenta mientras esta conectado.";
